@@ -5,7 +5,7 @@
 ![DAX](https://img.shields.io/badge/DAX-Measures-0078D4)
 ![Status](https://img.shields.io/badge/status-complete-2E8B57)
 
-> An entry-level Power BI portfolio project exploring student applications, enrolments and recruitment channels using fictional practice data.
+> An Power BI portfolio project exploring student applications, enrolments and recruitment channels using fictional practice data.
 
 ## Project summary
 
