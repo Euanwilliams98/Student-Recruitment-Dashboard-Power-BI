@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
 ![Status](https://img.shields.io/badge/status-complete-2E8B57)
 
-> A beginner portfolio project exploring student applications, enrolments and recruitment channels.
+> A portfolio project exploring student applications, enrolments and recruitment channels.
 
 ## Project summary
 
@@ -22,13 +22,15 @@ The aim was to understand how applications move through the recruitment stages a
 
 ### Recruitment overview
 
-![Recruitment overview](images/recruitment-overview.png)
+![Recruitment overview] <img width="1660" height="1160" alt="Screenshot 2026-09-14 125952" src="https://github.com/user-attachments/assets/75e0bea4-f303-4c98-b142-fd89bc459174" />
+
 
 This page shows the main totals, monthly application trend, recruitment funnel and application statuses.
 
 ### Conversion and channels
 
-![Conversion and channels](images/conversion-and-channels.png)
+![Conversion and channels] <img width="1659" height="1161" alt="Screenshot 2026-09-14 130009" src="https://github.com/user-attachments/assets/159896e9-832b-41ac-978b-1cddc49e5461" />
+
 
 This page compares conversion rates by college and country, and enrolments by marketing channel. The report also includes filters for date, college, course, country and intake.
 
