@@ -69,11 +69,29 @@ DIVIDE([Total Enrolments], [Total Applications])
 
 The conversion-rate measure shows the percentage of applications that resulted in enrolment.
 
+## Business question answers
+
+### How many applications led to enrolment?
+
+**2,182 of 7,500 applications** resulted in enrolment. This gives an overall application-to-enrolment conversion rate of **29.1%**.
+
+### Which college received the most applications?
+
+**London Pathway College** received the highest number of applications with **1,898**. It also had the highest college enrolment conversion rate at **30.5%**.
+
+### Which marketing channel generated the most enrolments?
+
+**Education Agent** generated the most enrolments with **612**. Paid Social had fewer enrolments (**383**) but a slightly higher conversion rate of **30.7%**, compared with **29.2%** for Education Agent.
+
+### How close were enrolments to the target?
+
+The dashboard shows that **93.0% of the enrolment target was achieved**. This means recruitment was close to the target, but there was still a small gap remaining.
+
 ## Key findings
 
-- **2,182 of 7,500 applications resulted in enrolment**, giving an overall application-to-enrolment conversion rate of **29.1%**. Enrolments reached **93.0% of the target**.
-- **London Pathway College** received the most applications (**1,898**) and also had the highest college conversion rate (**30.5%**).
-- **Education Agent** generated the most enrolments (**612**). Paid Social had a slightly higher conversion rate (**30.7% versus 29.2%**), showing why both volume and conversion rate are useful when comparing channels.
+- The overall application-to-enrolment conversion rate was **29.1%**, with **2,182 enrolments** from **7,500 applications**.
+- **London Pathway College** combined the highest application volume (**1,898**) with the highest college conversion rate (**30.5%**).
+- **Education Agent** produced the highest enrolment volume (**612**), while Paid Social achieved a slightly stronger conversion rate (**30.7%**).
 
 ## What I learned
 
